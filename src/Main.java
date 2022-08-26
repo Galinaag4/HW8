@@ -8,7 +8,7 @@ public class Main {
         }
     }
 
-     static void main(String[] args){
+    public static void main(String[] args){
         char c = 2021;
         visYear(c);
         int z = 2000;
